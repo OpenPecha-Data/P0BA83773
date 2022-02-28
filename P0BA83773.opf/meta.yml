@@ -1,0 +1,351 @@
+id: P0BA83773
+initial_creation_type: input
+source_metadata:
+  title: Mipham Rinpoche Series
+  language: es
+  description: 'Texts by and about the great Nyingma polymath Jamgön Mipham Namgyal
+    Gyatso (mi pham rnam rgyal rgya mtsho, 1846-1912), arguably the most influential
+    Tibetan scholar of recent times:'
+  volume:
+    1d720ea31ac74fa6827392126706ba26:
+      title: Advice for Beginners
+      parent: Advice
+    6c07ba040ac44e12820e8c4a1fdf611d:
+      title: Advice to Jigme Tenpe Nyima
+      parent: Advice
+    e9e906d2f49e4e61ba9a1f2d23b9ef0b:
+      title: Essence of the 84000 Approaches to the Dharma
+      parent: Advice
+    5f719949c10048edb7a4e560d98b52d8:
+      title: How to Cultivate Concentration
+      parent: Advice
+    5d6d8dcb9e194b18b80e8baa72482b65:
+      title: Profound Instruction on Śamatha
+      parent: Advice
+    e57abb34a14f4fe89d3c3f4c8cd1fb3f:
+      title: Satirical Advice for the Four Schools
+      parent: Advice
+    636850234f9545d39b58a10ea1c26474:
+      title: The Four Dharma Traditions of Tibet
+      parent: Advice
+    344238a2e0d54d3cbe5940184418ab07:
+      title: The Mahāmudrā Practice of Stillness, Movement and Awareness
+      parent: Advice
+    d6ab56bf66994ccdbff0722e8b2163db:
+      title: The Perfect Equality of the Dharmadhātu
+      parent: Advice
+    85bcd667289f40fbb51b978760c9388d:
+      title: A Brief Prayer for Summoning Prosperity
+      parent: Aspiration Prayers
+    e4182c051ead40bba3f573f800d79c5f:
+      title: Aspiration for the Four Activities
+      parent: Aspiration Prayers
+    2cd2a1e235814ef4b55d1be643ebf5b6:
+      title: Light Offering Prayer
+      parent: Aspiration Prayers
+    9e23bb2ae35e495585fc08a644c7dc95:
+      title: Sukhāvatī Aspiration
+      parent: Aspiration Prayers
+    6b2e5851915647c6acb85a34b413a15b:
+      title: Summoning the Spirit of Abundance - The Hook of Divine Substance
+      parent: Aspiration Prayers
+    02e3b96dbe8540569dac91e927074ac9:
+      title: 'The Secret Path of Wisdom: A Prayer of Aspiration for the Mountain of
+        Glory'
+      parent: Aspiration Prayers
+    3b88421026b24af197b9ed81427f23e0:
+      title: Verses of the Eight Noble Auspicious Ones
+      parent: Aspiration Prayers
+    add70e8ea4424097a171d586578f435e:
+      title: 'Words to Delight the Sovereigns of the Dharma: A Prayer of Aspiration
+        for the Flourishing and Spread of the Ancient Translation Tradition'
+      parent: Aspiration Prayers
+    e130b507d9664ea5a4d1b283635e2ea6:
+      title: A Brief Version of the 'Chinese' Practice of Averting Periodic Obstacles
+      parent: Averting Obstacles
+    dc90b28379ab406a91ea409c3524faab:
+      title: Benedictory Verses for A Brilliant Elucidation of Logical Reasoning
+      parent: Benedictory Verses
+    b504f18c51784bd8a9a0c79b93477b7f:
+      title: Benedictory Verses for White Lotus
+      parent: Benedictory Verses
+    f900f10692604c3c9596dea894dacbfc:
+      title: Ascertaining the Two Kinds of Selflessness
+      parent: Buddhist Philosophy
+    0348d8c1f7044e40a82bcb6eec9ca0c2:
+      title: 'Gateway to Learning: Four Great Logical Arguments of the Middle Way'
+      parent: Buddhist Philosophy
+    7e3f1e665cf24751953b31d8f4a367e4:
+      title: 'Gateway to Learning: Individual Selflessness'
+      parent: Buddhist Philosophy
+    fe883d221eff4b3ea667e8cece2504f7:
+      title: Profound Instruction on the View of the Middle Way
+      parent: Buddhist Philosophy
+    d9c84697b53b4987be83758ac1c0941b:
+      title: Putting the Instruction on the Purification of Mental Activity into Practice
+      parent: Buddhist Philosophy
+    04d588885ebb4d8b80a15bb26f843583:
+      title: The Sword of Wisdom for Thoroughly Ascertaining Reality
+      parent: Buddhist Philosophy
+    52e994021e9045d5a8fc95d93bf2729f:
+      title: 'The Vajra Mirror: Cutting through Doubts Concerning Self-Awareness'
+      parent: Buddhist Philosophy
+    562d69e80dca459395a0758ed1d500b0:
+      title: The Wheel of Analytical Meditation That Thoroughly Purifies Mental Activity
+      parent: Buddhist Philosophy
+    73b32f2616464425a87248278f8e13a0:
+      title: Brief Offering Prayer to Durtrö Lhamo, Mistress of the Charnel Ground
+      parent: Dharma Protectors
+    079955fe658d4e6fb1f7d64bdcba447d:
+      title: Brief Offering Prayer to Ekajaṭī
+      parent: Dharma Protectors
+    7e8d0e3fa8dc4d8ea215287de3d6c3eb:
+      title: Brief Offering Prayer to Tsiu Marpo
+      parent: Dharma Protectors
+    78a9f73cc62f4cabac931062d2857293:
+      title: Brief Offering Prayer to Za Rāhula
+      parent: Dharma Protectors
+    4985be42dc0840709cefff33c22e4eb7:
+      title: Brief Offering Prayer to the Oath-Bound Vajrasādhu
+      parent: Dharma Protectors
+    3c2e39286e4f4eecaae2b4663961b77a:
+      title: Offering to the Five Medicine Sisters, Guardians of the Earth
+      parent: Dharma Protectors
+    aa75250d51d24ef9a098fb59838c5619:
+      title: 'A Lamp to Dispel Darkness: An Instruction that Points Directly to the
+        Very Essence of Mind in the Tradition of ‘the Old Realized Ones’'
+      parent: Dzogchen
+    02b5406240684005a3e0448a6b00f0e6:
+      title: Pith Instruction on the Three Crucial Statements
+      parent: Dzogchen
+    923834df819e4a8f8b4d7fafc0cc22f7:
+      title: 'Self-Radiance of Indestructible Awareness and Emptiness: An Aspiration
+        towards the Meaning of the Indivisible Ground, Path and Fruition of the Great
+        Perfection Mañjuśrī'
+      parent: Dzogchen
+    fe2582c71e6045469f17c4da483ddb89:
+      title: The Essence of Mind
+      parent: Dzogchen
+    643a17a1a6574db0b1aa338ac6abedc2:
+      title: 'The Essence of Wisdom: How to Sustain the Face of Rigpa'
+      parent: Dzogchen
+    ed3b0ca19fbb462aa44b429124dbdeaf:
+      title: The Key Points of Trekchö
+      parent: Dzogchen
+    1fb5ff1310ee477aa148642c468a3a5d:
+      title: The Nature of Mind
+      parent: Dzogchen
+    f1412e8701b2463d9e9be828b6d05a38:
+      title: Brief Gesar Windhorse Invocation
+      parent: Gesar
+    616c73c9f4544fb3994820ea5d3c92a7:
+      title: Brief Offering Prayer to Gesar
+      parent: Gesar
+    c694b2eb07b54be99b923e40a40027a0:
+      title: Great Clouds of First-Portion Offerings for Prosperity
+      parent: Gesar
+    ebf65b2ae3b345e8b0b18468995b0a79:
+      title: Prayer to Gesar
+      parent: Gesar
+    c82b6d1525b744e3b45afd3285582a65:
+      title: Short Windhorse Prayer to Gesar
+      parent: Gesar
+    dbfdaef15d5d4833a65c9ce13bf63e63:
+      title: The Prayer and Offering to 'The Great Lion, Gesar the Jewel', that Spontaneously
+        Accomplishes Activities
+      parent: Gesar
+    aa4633d370c944faa297985204049f56:
+      title: 'The Spontaneous Fulfilment of Wishes: A Daily Prayer to Gesar, King
+        of the Dralas'
+      parent: Gesar
+    cca2d45c0eea4100abb4029c9137e4f3:
+      title: The Swift Accomplishment of Enlightened Activity through Invocation and
+        Offering
+      parent: Gesar
+    afd6959240924958b7e21ff2c4647703:
+      title: 'The Swift Fulfilment of Wishes: A Brief Offering Prayer to King Gesar'
+      parent: Gesar
+    9362fc7838774a2c8c20446a05301f83:
+      title: 'The Swift Infusion of Blessings: A Guru Yoga of the Great Embodiment
+        of Unchanging Awareness Wisdom'
+      parent: Gesar
+    c2493a8b92bd4931aec02f2a72f3cfe0:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven Line
+        Prayer (Addendum)'
+      parent: Guru Yoga
+    6d5602963b564a119d22a4fb06a2f3e0:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven-Line
+        Prayer'
+      parent: Guru Yoga
+    41f5152573944efea4522e8e233e1a81:
+      title: 'A Shower of Wisdom: A Guru Yoga of Garab Dorje'
+      parent: Guru Yoga
+    b85b90c835504ba88a8ecafd2d68022c:
+      title: 'Great Treasury of Siddhis: A Guru Yoga of Paṇchen Smṛti'
+      parent: Guru Yoga
+    8d55433d93374a89b45c99b0a5309dad:
+      title: Guru Yoga Focusing upon Noble Kurukullā
+      parent: Guru Yoga
+    e85ddac353f3416d83dc5b4c59f5ad82:
+      title: 'Shower of Blessings: A Guru Yoga of the Great Paṇḍita, Glorious Rongzom'
+      parent: Guru Yoga
+    24a08246099642378bf55f5fc7a75f2e:
+      title: 'Swift Infusion of Blessings: A Guru Yoga based on Jamgön Mipham Gyatso'
+      parent: Guru Yoga
+    bfb407d6f7eb4b3fa24df7c4a06616de:
+      title: Short Sang Offering to Kurukullā
+      parent: Kurukullā
+    730bed97d01d4dec95ff3e4f3f247aa7:
+      title: Short Torma Offering to Kurukullā
+      parent: Kurukullā
+    e61f03f9fd18481ba274605fea6db850:
+      title: 'The Lotus Net: A Sang Offering to the Mighty Lotus Ḍākinī, Kurukullā'
+      parent: Kurukullā
+    f53d5c2d8f5a4bc4a850452eb999074a:
+      title: Brief Dzogchen Lineage Prayer
+      parent: Lineage Prayers
+    dc4f4ea82b16408ea96c6aaa25e631ac:
+      title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+      parent: Lineage Prayers
+    e82ad11fbadd44f782d77b4fe4af699c:
+      title: 'The Melodious Song of Immortality: A Prayer for Long Life'
+      parent: Long Life Prayers
+    70c2440973a04a65b3826ac6e6cac2a9:
+      title: Extemporary Practice of Longevity for Oneself or Others
+      parent: Longevity
+    a89ffea94200496b9060a0c5ecb85532:
+      title: Brief Windhorse Invocation
+      parent: Lungta
+    2f2b7e64b40549c9846ba64776a3d0ea:
+      title: Daily Lungta Recitation
+      parent: Lungta
+    c729eb25461a475db1a059a1b9193559:
+      title: The Swift Fulfilment of All Wishes—Offering the Flag of Windhorse
+      parent: Lungta
+    a667809342ff4e71b30ca85ebdb1964b:
+      title: The Mantra Collection that Incinerates All the Diseases of this Kaliyuga
+      parent: Mantras
+    989b83ab7f8341d4b0422415ba9317f7:
+      title: Wrathful Guru Mantra Visualization
+      parent: Mantras
+    83219b8f14874d66bceaac4716ba7a13:
+      title: 'The Wish-Granting King of Jewels: An Essential Garland of Offerings'
+      parent: Offering
+    60793cab321c4caeb3274953fc639265:
+      title: 'Beautiful Adornment of the Earth: In Praise of Kṣitigarbha'
+      parent: Praise
+    ae33c3de003045a2b79dbf7578fba018:
+      title: 'Gentle Splendour: Praises to the Great Abbot Śāntarakṣita'
+      parent: Praise
+    b0c8ba9942574a9d976ed119c178f4ae:
+      title: 'Snowy Lands: Praises to the Great Dharma Emperor Tri Songdetsen'
+      parent: Praise
+    7f777dec53c84303a0ce55c829a4a5b8:
+      title: 'The Three Kāyas: Praises to the Great Master Padmasambhava'
+      parent: Praise
+    6e951a24fb1c48a7990b923f3b1e8a74:
+      title: Prayer Recalling the Life and Liberation of the Mañjunātha Guru
+      parent: Prayers
+    8ad740ff51324d1db8d3f89c5e573d74:
+      title: Prayer to Akṣobhya
+      parent: Prayers
+    67abf05c381e4255a27ee2cfcd8f32b0:
+      title: Prayer to Smṛtijñānakīrti
+      parent: Prayers
+    7ee36f65ff46424badb4c7b5bc7253ff:
+      title: Three Prayers from the Earth Pig Year
+      parent: Prayers
+    6b4767bd176f491b91b7083417f00dc2:
+      title: 'Wangdü: The Great Cloud of Blessings—The Prayer which Magnetizes All
+        that Appears and Exists'
+      parent: Prayers
+    86754f66e347418bb13cb72496a3d14c:
+      title: A Brief Prayer for the Spontaneous Fulfilment of Aspirations
+      parent: Prayers to Guru Rinpoche
+    f3edc91b9ac9427ca48232ca6d117785:
+      title: Recollecting the Deeds of The Tenth Days
+      parent: Prayers to Guru Rinpoche
+    f80ebec0b7684cb18789a1533832ace9:
+      title: The Prayer which is the Source of All True Realization
+      parent: Prayers to Guru Rinpoche
+    360a098e5376492e909053a0fbfadf1f:
+      title: 'In Praise of Mañjuśrī: Increasing Intelligence to the Full'
+      parent: Prayers to Mañjuśrī
+    f188b19e1be74d3b988dacbe435360fb:
+      title: 'In Praise of Mañjuśrī: The Great Treasure of Blessings'
+      parent: Prayers to Mañjuśrī
+    d18929e4824343bc87b1c7f90ae1fd00:
+      title: In Praise of the Protector Mañjughoṣa
+      parent: Prayers to Mañjuśrī
+    50feb9923c9943bfa268b0e6afcd999a:
+      title: Prayer to Mañjuśrī
+      parent: Prayers to Mañjuśrī
+    5430d7f9cf174c54869da7228c5c7359:
+      title: Prayer to the Sovereign of Dharma and Retinue
+      parent: Prayers to Śākyamuni
+    51df583831b746be8b04e72fe2213c30:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      parent: Prayers to Śākyamuni
+    21a6675191874d36a40d4fbd48e5e5d3:
+      title: 'Illuminating the Path to Liberation: A Preliminary Practice (Ngöndro)'
+      parent: Preliminary Practice
+    4792a06bea964716bc570e1a45309ff7:
+      title: A Sādhana of Jambhala
+      parent: Sādhanas
+    a91d32a39d81476dba7663e8ffd7a3e4:
+      title: A Sādhana of Kurukullā
+      parent: Sādhanas
+    5a5376e92cdd499aa08375e75bb0d6bf:
+      title: A Sādhana of Sitātapatrā
+      parent: Sādhanas
+    393a45f8d9bd4feaa4a636c3f9a919c2:
+      title: A Sādhana of White Sarasvatī
+      parent: Sādhanas
+    7156011c07754852a111fb5e00cfaa61:
+      title: Acala Sādhana
+      parent: Sādhanas
+    12693eb7428c4c9b8f45cff0e55d5b80:
+      title: Kṣitigarbha Visualization and Mantra Recitation
+      parent: Sādhanas
+    8ac5e59ce6364ef9b7d6f133c07a45ae:
+      title: Sādhana of Mārīcī
+      parent: Sādhanas
+    815855138e8c4b72a705fe0afa306b60:
+      title: Visualization and Recitation of the Six-Syllable Mantra of Avalokiteśvara
+      parent: Sādhanas
+    ecc607dfa6274a288bcd140e8e148e34:
+      title: Brief Sang Offering
+      parent: Sang Offering
+    bc9ce5d443574843aef0b20b770ab5e6:
+      title: Brief Sang Offering to Purify Contamination
+      parent: Sang Offering
+    08e0fba95cd64b74aac6b2475221a66d:
+      title: 'The Glorious Gift of Longevity and Granting All Desires: A Liturgy for
+        Saving Lives'
+      parent: Saving Lives
+    56e76d3c5b1a4edb922735e84c583594:
+      title: Five-Verse Doha of Yogic Realization
+      parent: Songs
+    06bebbb264ac463fb0b4b0e3b6348224:
+      title: 'Freedom from All Adversity: A Sur Offering to Harmful Influences, Obstacle-Makers
+        and Elemental Spirits'
+      parent: Sur Offering
+    1b6d9f3058844a4595da09acf132a9bf:
+      title: Prayer to Tārā, Combined with Her Mantra
+      parent: Tārā
+    ae974b369089454d8c19dc2ae47f4dc2:
+      title: Outline of the Ten Royal Sūtras
+      parent: Topical Outlines
+    7bb65358c8eb426197e59b54ed30a2b2:
+      title: Concise Tsok Feast
+      parent: Tsok
+    5ffd12876b504f92b2af35f7b78ff49a:
+      title: 'Excellent Vase of Splendour: The Tsok Feast Offering to Accompany the
+        Vajra Seven-Line Prayer'
+      parent: Tsok
+    b2f95c4679564a6b8f9c74f87e796971:
+      title: A Method of Purifying Samaya Violations by Relying on the Glorious Guru
+        Vajrasattva
+      parent: Vajrasattva
+created_at: '2022-03-01T00:57:12.445398'
+last_modified_at: '2022-03-01T00:57:12.445401'
